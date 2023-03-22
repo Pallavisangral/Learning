@@ -30,7 +30,7 @@ export default function Navbar(props) {
 						<ul className="navbar-nav me-auto mb-2 mb-lg-0">
 							<li className="nav-item">
 								<a
-									className="nav-link active"
+									className="nav-link "
 									aria-current="page"
 									href="/"
 								>
